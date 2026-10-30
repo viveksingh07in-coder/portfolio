@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600" role="img" aria-labelledby="title desc">
+  <title id="title">Vivek Singh portrait illustration</title>
+  <desc id="desc">Abstract profile illustration in green and dark tones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#edf5dc"/>
+      <stop offset="100%" stop-color="#dfe9c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="600" rx="170" fill="url(#bg)"/>
+  <circle cx="250" cy="190" r="92" fill="#202820"/>
+  <path d="M150 470c18-90 72-140 100-140s82 50 100 140" fill="#829f42"/>
+  <path d="M195 145c18-45 42-69 55-69 24 0 58 30 72 81-20-9-41-14-72-14-22 0-39 2-55 2z" fill="#202820"/>
+  <circle cx="220" cy="190" r="10" fill="#edf5dc"/>
+  <circle cx="280" cy="190" r="10" fill="#edf5dc"/>
+  <path d="M225 230c16 18 34 22 50 0" fill="none" stroke="#edf5dc" stroke-width="8" stroke-linecap="round"/>
+</svg>
